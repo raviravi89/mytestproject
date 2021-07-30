@@ -6,6 +6,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
-    <History>True|2021-07-29T10:56:02.7559575Z;True|2021-07-29T10:53:06.3382827+00:00;True|2021-07-29T07:32:27.8786245+00:00;</History>
+    <History>True|2021-07-30T03:50:23.2361990Z;False|2021-07-30T09:19:35.3760944+05:30;True|2021-07-30T09:11:31.4929648+05:30;True|2021-07-30T09:06:10.9750390+05:30;True|2021-07-30T00:05:23.9928242+05:30;True|2021-07-29T23:34:59.6276933+05:30;True|2021-07-29T23:18:46.8418519+05:30;</History>
+    <_PublishTargetUrl>C:\inetpub\wwwroot\myapp</_PublishTargetUrl>
   </PropertyGroup>
 </Project>
